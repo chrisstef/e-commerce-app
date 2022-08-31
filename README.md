@@ -4,6 +4,14 @@
 
 This e-commerce application includes modern design and animations, the ability to add and edit products on the go using Sanity for a database, advanced cart, checkout functionalities, and most importantly, the complete integration with Stripe to cover real payments.
 
+In this app we are using:
+- Advanced React techniques such as folder and file structure, hooks, and refs.
+- Advanced State Management of the entire application with React Context API.
+- Next.js Best Practices such as file-based routing and data using server-side rendering and static generation.
+- Stripe to manage payments, products, shipping rates, and the entire checkout process.
+
+Most importantly, we manage the entire content of our app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
