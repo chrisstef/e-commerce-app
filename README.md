@@ -1,28 +1,32 @@
-## Ecommerce app
+# Ecommerce app
+
 
 ## Project Description 
 
 This e-commerce application includes modern design and animations, the ability to add and edit products on the go using Sanity for a database, advanced cart, checkout functionalities, and most importantly, the complete integration with Stripe to cover real payments.
 
+In this app we are using:
+- Advanced React techniques such as folder and file structure, hooks, and refs.
+- Advanced State Management of the entire application with React Context API.
+- Next.js Best practices such as file-based routing, server-side rendering and static generation.
+- Stripe to manage payments, products, shipping rates, and the entire checkout process.
+
+Most importantly, we manage the entire content of our app using Sanity.
+Sanity is an unified content platform that will make the making of our entire app possible.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
 First, run the development server:
 
-```bash
+```
 npm run dev
-# or
-yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ## Learn More
 
