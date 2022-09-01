@@ -12,7 +12,8 @@ In this app we are using:
 - Stripe to manage payments, products, shipping rates, and the entire checkout process.
 
 Most importantly, we manage the entire content of our app using Sanity.
-Sanity is an unified content platform that will make the making of our entire app possible.
+Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. 
+They’ll cover the dirty work for us and allow us to build scalable and modern apps extremely easily.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
