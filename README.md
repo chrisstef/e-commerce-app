@@ -13,7 +13,7 @@ In this app we are using:
 
 Most importantly, we manage the entire content of our app using Sanity.
 Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. 
-They’ll cover the dirty work for us and allow us to build scalable and modern apps extremely easily.
+It covers the dirty work for us and allow us to build scalable and modern apps extremely easily.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
