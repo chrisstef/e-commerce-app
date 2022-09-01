@@ -7,7 +7,7 @@ This e-commerce application includes modern design and animations, the ability t
 
 In this app we are using:
 - Advanced React techniques such as folder and file structure, hooks, and refs.
-- Advanced State Management of the entire application with React Context API.
+- State Management of the entire application with React Context API.
 - Next.js Best practices such as file-based routing, server-side rendering and static generation.
 - Stripe to manage payments, products, shipping rates, and the entire checkout process.
 
