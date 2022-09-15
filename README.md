@@ -7,12 +7,13 @@ This e-commerce application includes modern design and animations, the ability t
 
 In this app we are using:
 - Advanced React techniques such as folder and file structure, hooks, and refs.
-- Advanced State Management of the entire application with React Context API.
+- State Management of the entire application with React Context API.
 - Next.js Best practices such as file-based routing, server-side rendering and static generation.
 - Stripe to manage payments, products, shipping rates, and the entire checkout process.
 
 Most importantly, we manage the entire content of our app using Sanity.
-Sanity is an unified content platform that will make the making of our entire app possible.
+Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. 
+It covers the dirty work for us and allow us to build scalable and modern apps extremely easily.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
